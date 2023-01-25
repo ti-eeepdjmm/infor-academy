@@ -31,7 +31,6 @@ Para realizar as tarefas específicas do desafio, será preciso ter os conhecime
 
 ## 🚩 Status / Info
 
-![](https://img.shields.io/badge/npm-v.8.1.0-blue)
 ![](https://img.shields.io/github/stars/ti-eeepdjmm/infor-academy.svg)
 ![](https://img.shields.io/github/commit-activity/w/ti-eeepdjmm/infor-academy.svg)
 ![](https://img.shields.io/github/license/ti-eeepdjmm/infor-academy.svg)
